@@ -955,6 +955,9 @@ figure.effect-bubba:hover p {
 	float: right;
 	margin-left: 3em;
 }
+.iconbox-title {
+	padding-top: 20px;
+}
 
 /* Example for media query */
 @media screen and (max-width: 30.6em) { 
